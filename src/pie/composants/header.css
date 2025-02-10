@@ -1,0 +1,69 @@
+/* App.css */
+
+  .nav1{
+   background-color: #ffefe1;
+    height: 100px;
+    font-weight: bold;
+    font-size: 12px;
+    
+   
+    
+  }
+  Link{
+    color: #ffefe1;
+  }
+  .connecter{
+  color: #FF5757;
+  font-weight: bold;
+  border-right: 2px solid #cdd1d6 ;
+  padding-right: 27px;
+  text-decoration: none;
+  font-size: x-large;
+  margin-right: 30px;
+  }
+  .inscrire{
+    background-color: #FF5757;
+    color: white;
+   text-decoration: none;
+    padding:5px;
+    border: #FF5757;
+    margin: 19px;
+    width: 240px;
+    font-weight: 700;
+    height: 50px;
+    font-size: x-large;
+    box-shadow: 1px 10px 20px 0px #FF5757;
+    }
+  
+    .inscrire:hover{
+  
+      color: #07036D;
+      border: none;
+     
+  }
+  
+  .logo img {
+    width: 230px;
+    height: 50px;
+   
+  }
+  
+  .sidebar{
+    visibility: hidden; 
+    opacity: 0;
+    z-index: 5;
+    position: absolute;
+    width: 30%;
+    top: 90px;
+    right: 0;
+    background-color:#FF5757;
+    color: black;
+  }
+  .sidebar.visible {
+    visibility: visible; /* Show the element */
+    opacity: 1; /* Make the element fully visible */
+  }
+  
+
+ 
+

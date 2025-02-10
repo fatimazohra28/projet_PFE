@@ -1,0 +1,42 @@
+.form-container {
+    width: 900px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+   font-size: large;
+   font-weight: bold;
+
+  }
+  
+  .form-container label {
+    display: block;
+    margin-bottom: 10px;
+  }
+.app{background-color: #ffefe1;}
+
+  
+  .form-container .row .col-6 input[type="text"],
+  .form-container textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 55px;
+    border: 1px solid #ccc;
+   background-color: #ffefe1;
+   color: black
+  }
+  
+  .form-container button {
+    padding: 10px 20px;
+    
+    background-color: #07036D;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .form-container button:hover {
+    background-color: #0056b3;
+  }
+  

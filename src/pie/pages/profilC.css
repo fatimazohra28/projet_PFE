@@ -1,0 +1,55 @@
+/* General styles for the profile container */
+.profile-container {
+    max-width: 800px;
+    height: 1000px;
+    margin: 0 auto;
+    padding: 40px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styles for the profile card */
+  .profile-card {
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Header styles */
+  .profile-card h2 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  /* Paragraph and strong tag styles */
+  .profile-card p {
+    font-size: 16px;
+    color: #666;
+font-size: xx-large;
+margin: 30px;
+
+  }
+  
+  .profile-card p strong {
+    color: #333;
+  }
+  
+  /* Link styles */
+  .cv-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  
+  .cv-link:hover {
+    background-color: #07036D;
+    color: antiquewhite;
+  }
+  

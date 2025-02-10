@@ -1,0 +1,163 @@
+.conx {
+  margin: 70px;
+  margin-block: 110px;
+}
+.imgconx {
+  width: 100%;
+  padding-left: 30px;
+}
+.formconx {
+  box-shadow: 1px 10px 20px 10px rgb(184, 162, 162);
+  padding: 110px;
+  margin-right: 100px;
+  height: 600px;
+  margin-top: 70px;
+  margin-top: -6px;
+}
+.formconx input {
+  margin: 30px;
+  height: 49px;
+  width: 430px;
+}
+.span {
+  font-family: "felix Titling";
+  font-size: 40px;
+  color: #07036d;
+  text-align: center;
+  margin-block: 50px;
+  padding-block: 150px;
+}
+.formconx button {
+  background-color: #ff5757;
+  margin-top: 70px;
+  height: 45px;
+  width: 340px;
+  margin-inline: 80px;
+  border: none;
+  color: aliceblue;
+  font-weight: bold;
+  font-size: large;
+}
+.formconx p {
+  color: rgb(139, 135, 135);
+  margin-inline: 120px;
+  margin-top: 10px;
+}
+.link {
+  text-decoration: none;
+  color: #ff5757;
+  font-weight: bold;
+}
+.formconx button:hover {
+  background-color: #e8ecb6;
+  margin: 25px;
+  box-shadow: 1px 10px 20px 10px rgb(184, 162, 162);
+  height: 45px;
+  width: 340px;
+  margin-inline: 90px;
+  border: none;
+  color: #07036d;
+  font-weight: bold;
+  font-size: large;
+}
+.choix {
+  margin: 100px;
+  text-align: center;
+  padding-left: 110px;
+}
+.entrep,
+.condidat {
+  height: 300px;
+  padding: 60px;
+  margin: 10px;
+  width: 590px;
+}
+.choix .entrep {
+  background-color: #07036d;
+  color: #e3cdb6;
+}
+.condidat {
+  background-color: #e3cdb6;
+  color: #07036d;
+}
+.choix p {
+  margin-bottom: 60px;
+  font-size: xxx-large;
+  font-weight: bold;
+}
+.choix1 {
+  text-align: center;
+  margin: 20px;
+  border: 1px solid #07036d;
+  border-radius: 50px;
+}
+.condidat h2 {
+  background-color: #07036d;
+  color: #e3cdb6;
+  height: 50px;
+  box-shadow: 1px 10px 20px 10px #4b4793;
+  font-weight: bold;
+}
+.entrep h2 {
+  background-color: #e3cdb6;
+  color: #07036d;
+  height: 50px;
+  box-shadow: 1px 10px 20px 10px rgb(228, 225, 225);
+  font-weight: bold;
+}
+.condidat:hover {
+  margin: 7px;
+  background-color: #07036d;
+  color: #0f0c09;
+}
+.entrep:hover {
+  margin: 7px;
+  background-color: #e3cdb6;
+  color: #07036d;
+}
+.form-container {
+  max-width: 900px;
+  margin: 0 auto; /* Center the container */
+  padding: 20px;
+  background: #f1dbc5;
+  border-radius: 8px;
+  box-shadow: 1px 10px 20px 10px rgb(218, 181, 181);
+  margin-bottom: 50px; /* This should work if the parent allows for margin */
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.form-group input,
+.form-group textarea {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.butadd {
+  padding: 10px 20px;
+  font-size: 23px;
+  color: #fff;
+  background-color: #6ba2dc;
+  border: none;
+  width: 300px;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.butadd:hover {
+  background-color: #f94215;
+  box-shadow: 1px 10px 20px 10px rgb(189, 158, 158);
+
+}
